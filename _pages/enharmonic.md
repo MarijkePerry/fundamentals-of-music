@@ -1,0 +1,3 @@
+<h1>enharmonic</h1>
+
+The enharmonic genus is one of three genera typically used in Ancient Greek music. The enharmonic is characterized by having a large interval between the 3rd to 4th note in the tetrachord, especially when compared to the diatonic or chromatic. In modern musical terms, an enharmonic tetrachord might sound approximate to two quarter steps followed by a major third. Because of its reliance on quarter tones, the enharmonic scale does not have a close approximate in common Western music theory.

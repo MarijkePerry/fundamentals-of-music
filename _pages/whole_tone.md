@@ -1,0 +1,3 @@
+<h1>whole tone</h1>
+
+The whole tone, which can be represented by the ratio of 9:8, can be derived through several means in Ancient Greek tuning. First, if a base note is taken, and then a fourth and a fifth up from that base note is played, the distance between those two notes will be a whole tone. A whole tone, moreover, will be the remainder of an octave if two fourths are stacked on top of each other--i.e., the top note of the first fourth is the bottom note of the second fourth. An example of a whole tone occurs at the bottom of each full scale. 
