@@ -1,0 +1,5 @@
+REMINDERS FOR GIT PUSHING
+
+git add
+git commit
+git push
